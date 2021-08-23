@@ -4,6 +4,7 @@
 - [【线性代数 上】清华大学 马辉 徐帆](https://www.bilibili.com/video/BV11z4y1f7ym/) [| 【线性代数 下】清华大学 马辉 徐帆](https://www.bilibili.com/video/BV14k4y1y7uR/)
 - [可汗线性代数](https://www.khanacademy.org/math/linear-algebra)
 
+# [mit-18.06-linalg-notes,python](https://github.com/apachecn/mit-18.06-linalg-notes)
 
 # 18.06 线性代数（Linear Algebra）中文笔记
 
