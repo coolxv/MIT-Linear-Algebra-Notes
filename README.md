@@ -2,7 +2,7 @@
 - [线性代数的本质-3Blue1Brown中文配音](https://www.bilibili.com/video/BV1ib411t7YR?p=1)[ | 中文字幕](https://www.bilibili.com/video/BV1ys411472E)[ | 英文版](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [麻省理工公开课：线性代数视频中文字幕](https://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fdaishu.html)[ | 英文原版视频](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)[ | A 2020 Vision of Linear Algebra](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/index.htm)[ | 18.06 Linear Algebra, Spring 2020](https://mitmath.github.io/1806/)
 - [【线性代数 上】清华大学 马辉 徐帆](https://www.bilibili.com/video/BV11z4y1f7ym/) [| 【线性代数 下】清华大学 马辉 徐帆](https://www.bilibili.com/video/BV14k4y1y7uR/)
-- [可汗线下代数](https://www.khanacademy.org/math/linear-algebra)
+- [可汗线性代数](https://www.khanacademy.org/math/linear-algebra)
 
 
 # 18.06 线性代数（Linear Algebra）中文笔记
