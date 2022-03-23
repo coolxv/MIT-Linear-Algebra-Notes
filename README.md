@@ -3,8 +3,53 @@
 - [麻省理工公开课：线性代数视频中文字幕](https://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fdaishu.html)[ | 英文原版视频](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)[ | A 2020 Vision of Linear Algebra](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/index.htm)[ | 18.06 Linear Algebra, Spring 2020](https://mitmath.github.io/1806/)
 - [【线性代数 上】清华大学 马辉 徐帆](https://www.bilibili.com/video/BV11z4y1f7ym/) [| 【线性代数 下】清华大学 马辉 徐帆](https://www.bilibili.com/video/BV14k4y1y7uR/)
 - [可汗线性代数](https://www.khanacademy.org/math/linear-algebra)
+- [线性代数2022 李宏毅](https://www.bilibili.com/video/BV16q4y1e7Cm?p=2)
+- [mit-18.06-linalg-notes,python](https://github.com/apachecn/mit-18.06-linalg-notes)
 
-# [mit-18.06-linalg-notes,python](https://github.com/apachecn/mit-18.06-linalg-notes)
+# notes
+- system：a system has input and output(function, transformation,operator)
+- linear system: persevering multiplication + persevering addition
+- 微积分运算都属于线性系统，电路学、微分方程、信号与系统也是线性系统
+- 向量和向量集合（符合某些约束条件），R<sup>n</sup>表示有n个元素的向量的集合
+- 符合8特征的东西叫做向量
+  + u+v=v+u
+  + (u+v)+w=u+(v+w)
+  + 0+u=u
+  + u'+u=0
+  + 1u=u
+  + (ab)u=a(bu)
+  + a(u+v)=au+av
+  + (a+b)u=au+bu
+- 线下系统=线下方程组，m个方程组，n个变量，m*n，线性方程组=矩阵*向量（行）=线性组合（列）
+  + A(u+v)=Au+Av
+  + A(cu)=c(Au)=(cA)u
+  + (A+B)u=Au+Bu
+  + A0=0
+  + Ov=0
+  + Iv=v
+  + Au=Bu=>A=B
+- 矩阵，向量也是矩阵[矩阵的运算及其运算规则](http://www2.edu-edu.com.cn/lesson_crs78/self/j_0022/soft/ch0605.html)
+  + A+B=B+A
+  + (A+B)+C=A+(B+C)
+  + (st)A=s(tA)
+  + s(A+B)=sA+sB
+  + (s+t)A=sA+tA
+  + (AB)C=A(BC)
+  + A(B+C)=AB+AC
+  + (B+C)A=BA+CA
+  + (sA)B=s(AB)=A(sB)
+  + (A<sup>T</sup>)<sup>T</sup>=A
+  + (sA)<sup>T</sup>=sA<sup>T</sup>
+  + (A+B)<sup>T</sup>=A<sup>T</sup>+B<sup>T</sup>
+  + （AB)<sup>T</sup>=B<sup>T</sup>A<sup>T</sup>
+- 方阵、上三角阵、下三角阵、对角阵、对称阵、单位阵、零阵、转置阵
+
+ 
+
+
+
+
+
 
 # 18.06 线性代数（Linear Algebra）中文笔记
 
