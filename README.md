@@ -41,15 +41,17 @@
   + (A<sup>T</sup>)<sup>T</sup>=A
   + (sA)<sup>T</sup>=sA<sup>T</sup>
   + (A+B)<sup>T</sup>=A<sup>T</sup>+B<sup>T</sup>
-  + （AB)<sup>T</sup>=B<sup>T</sup>A<sup>T</sup>
-- 方阵、上三角阵、下三角阵、对角阵、对称阵、单位阵、零阵、转置阵
+  + (AB)<sup>T</sup>=B<sup>T</sup>A<sup>T</sup>
+- 方阵、上三角阵、下三角阵、对角阵、对称阵、单位阵、零阵、逆阵、转置阵、正交阵
+- 向量的数乘、向量的内积、向量的外积、矩阵的数乘、矩阵的乘法、矩阵的哈达玛积、矩阵的克罗内克积
+  - 矩阵的乘法(matrix product、matmul product,一般矩阵乘积,表示为m x p矩阵A与p x n矩阵B乘积结果 m x n )
+  - 哈达玛积（Hadamard product，对形状相同的矩阵进行运算，表示为 A ⊙ B ）
+  - 克罗内克积（Kronecker product，是两个任意大小矩阵间的运算，表示为 A ⊗ B ）
+  - 内积（inner product）、点乘（dot product）、数量积（scalar product）、外积（outer product）、叉乘（cross product）、矢量积（vector product）
+  - exterior product=cross product，属于解析几何中领域，两个向量法向量，右手法则
+  - outer product，属于线代或张量
 
  
-
-
-
-
-
 
 # 18.06 线性代数（Linear Algebra）中文笔记
 
