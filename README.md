@@ -5,6 +5,7 @@
 - [可汗线性代数](https://www.khanacademy.org/math/linear-algebra)
 - [线性代数2022 李宏毅](https://www.bilibili.com/video/BV16q4y1e7Cm?p=2)
 - [mit-18.06-linalg-notes,python](https://github.com/apachecn/mit-18.06-linalg-notes)
+- [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
 
 # notes
 - system：a system has input and output(function, transformation,operator)
@@ -50,8 +51,14 @@
   - 内积（inner product）、点乘（dot product）、数量积（scalar product）、外积（outer product）、叉乘（cross product）、矢量积（vector product）
   - exterior product=cross product，属于解析几何中领域，两个向量法向量，右手法则
   - outer product，属于线代或张量
-
+- Ax=b或者Ax=0有无穷解<=>A的列向量线性相关
+- rank=矩阵线性无关最多列数；nullity=总列数-rank
  
+
+# 三个流行的开源数值线性代数库是：
+- 线性代数包，或 LAPACK。
+- 基本线性代数子程序，或 BLAS（线性代数库的标准）。
+- 自动调谐线性代数软件，或 ATLAS。
 
 # 18.06 线性代数（Linear Algebra）中文笔记
 
