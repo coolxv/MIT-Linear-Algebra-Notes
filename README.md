@@ -1,5 +1,5 @@
 # 参考
-- [线性代数的本质-3Blue1Brown中文配音](https://www.bilibili.com/video/BV1ib411t7YR?p=1)[ | 中文字幕](https://www.bilibili.com/video/BV1ys411472E)[ | 英文版](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [线性代数的本质-3Blue1Brown中文配音](https://www.bilibili.com/video/BV1ib411t7YR?p=1)[ | 中文字幕](https://www.bilibili.com/video/BV1ys411472E)[ | 英文版](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)[ | 文字版](https://o1zys.github.io/2018/01/03/EssenceOfLinearAlgebra/)
 - [麻省理工公开课：线性代数视频中文字幕](https://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fdaishu.html)[ | 英文原版视频](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)[ | A 2020 Vision of Linear Algebra](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/index.htm)[ | 18.06 Linear Algebra, Spring 2020](https://mitmath.github.io/1806/)
 - [【线性代数 上】清华大学 马辉 徐帆](https://www.bilibili.com/video/BV11z4y1f7ym/) [| 【线性代数 下】清华大学 马辉 徐帆](https://www.bilibili.com/video/BV14k4y1y7uR/)
 - [可汗线性代数](https://www.khanacademy.org/math/linear-algebra)
@@ -7,7 +7,10 @@
 - [mit-18.06-linalg-notes,python](https://github.com/apachecn/mit-18.06-linalg-notes)
 - [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
 - [Linear_Algebra_With_Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python)
-
+- [MIT-18.06-线性代数-完整笔记 markdown版](https://github.com/guokaide/linear-algebra)
+- [线性代数 python](https://github.com/meichaofan/linear-algebra)
+- [《线性代数及其应用》笔记](https://github.com/huangtinglin/Linear-Algebra-and-Its-Applications-notes)
+- [线性代数 中英文对照表](http://www.gaoshufudao.com/LinearAlgebra_Word.aspx)
 # notes
 - system：a system has input and output(function, transformation,operator)
 - linear system: persevering multiplication + persevering addition
