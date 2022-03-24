@@ -51,16 +51,19 @@
   - 内积（inner product）、点乘（dot product）、数量积（scalar product）、外积（outer product）、叉乘（cross product）、矢量积（vector product）
   - exterior product=cross product，属于解析几何中领域，两个向量法向量，右手法则
   - outer product，属于线代或张量
-- Ax=b或者Ax=0有无穷解<=>A的列向量线性相关
+- AX=0 有非零解说明A的列向量集合是线性相关关(dependence)
+- 矮胖型矩阵肯定是dependence
 - rank=矩阵线性无关最多列数；nullity=总列数-rank
 - [rref(reduced row echelon form,简化的行阶梯形矩阵)](https://ww2.mathworks.cn/help/matlab/ref/rref.html)
-[](solution.png)
+![](solution.png)
 - Column Correspondence Theorem,矩阵和RREF结构一致性
 - The three elementary row operations are: 
   - (Row Swap) Exchange any two rows. 
   - (Scalar Multiplication) Multiply any row by a constant. 
   - (Row Sum) Add a multiple of one row to another row.
 - Gauss-Jordan 消去法(interchange、scaling(non zero)、row addition)
+- 通过RREF求rank，求independence、求span
+- basic variables、free variables、full rank、rank deficient、pivot column、lullity
 
 # 三个流行的开源数值线性代数库是：
 - 线性代数包，或 LAPACK。
