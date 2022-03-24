@@ -6,6 +6,7 @@
 - [线性代数2022 李宏毅](https://www.bilibili.com/video/BV16q4y1e7Cm?p=2)
 - [mit-18.06-linalg-notes,python](https://github.com/apachecn/mit-18.06-linalg-notes)
 - [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
+- [Linear_Algebra_With_Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python)
 
 # notes
 - system：a system has input and output(function, transformation,operator)
@@ -63,7 +64,7 @@
   - (Row Sum) Add a multiple of one row to another row.
 - Gauss-Jordan 消去法(interchange、scaling(non zero)、row addition)
 - 通过RREF求rank，求independence、求span
-- basic variables、free variables、full rank、rank deficient、pivot column、lullity
+- basic variables、free variables、full rank、rank deficient、pivot column、nullity
 
 # 三个流行的开源数值线性代数库是：
 - 线性代数包，或 LAPACK。
