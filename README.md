@@ -53,7 +53,14 @@
   - outer product，属于线代或张量
 - Ax=b或者Ax=0有无穷解<=>A的列向量线性相关
 - rank=矩阵线性无关最多列数；nullity=总列数-rank
- 
+- [rref(reduced row echelon form,简化的行阶梯形矩阵)](https://ww2.mathworks.cn/help/matlab/ref/rref.html)
+[](solution.png)
+- Column Correspondence Theorem,矩阵和RREF结构一致性
+- The three elementary row operations are: 
+  - (Row Swap) Exchange any two rows. 
+  - (Scalar Multiplication) Multiply any row by a constant. 
+  - (Row Sum) Add a multiple of one row to another row.
+- Gauss-Jordan 消去法(interchange、scaling(non zero)、row addition)
 
 # 三个流行的开源数值线性代数库是：
 - 线性代数包，或 LAPACK。
