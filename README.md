@@ -79,6 +79,7 @@
 - Gauss-Jordan 消去法(interchange、scaling(non zero)、row addition)
 - 通过RREF求rank，求independence、求span
 - basic variables、free variables、full rank、rank deficient、pivot column、nullity
+- 通过逆矩阵解方程组x=A<sup>-1</sup>b
 
 # 三个流行的开源数值线性代数库是：
 - 线性代数包，或 LAPACK。
