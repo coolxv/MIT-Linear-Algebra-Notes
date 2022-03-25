@@ -59,8 +59,10 @@
   + |A<sup>*</sup>|=|A|<sup>n-1</sup>
   + (A<sup>\*</sup>)<sup>\*</sup>=|A|<sup>n-2</sup>A (n>=2)
   + A<sup>-1</sup>=(1/|A|)(A<sup>*</sup>)<sup>T</sup>
+  + |AB|=|A||B|
+  + |A<sup>T</sup>|=|A|
 
-- 方阵、上三角阵、下三角阵、对角阵、对称阵、单位阵、零阵、逆阵、转置阵、正交阵
+- 方阵、单位阵 I、零阵 O、逆阵 A<sup>-1</sup>、转置阵A<sup>T</sup>、[三角阵 T](https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E7%9F%A9%E9%98%B5)、[对角阵 D](https://zh.wikipedia.org/wiki/%E5%B0%8D%E8%A7%92%E7%9F%A9%E9%99%A3)、[对称阵 S](https://math.fandom.com/zh/wiki/%E5%AF%B9%E7%A7%B0%E7%9F%A9%E9%98%B5?variant=zh)、[正交阵](https://zh.wikipedia.org/wiki/%E6%AD%A3%E4%BA%A4%E7%9F%A9%E9%98%B5)、[初等矩阵 E](https://baike.baidu.com/item/%E5%88%9D%E7%AD%89%E7%9F%A9%E9%98%B5/5538659)、- [伴随矩阵 A<sup>*</sup>](https://baike.baidu.com/item/%E4%BC%B4%E9%9A%8F%E7%9F%A9%E9%98%B5/10034983)、[简化的行阶梯形矩阵 R(reduced row echelon form=RREF)](https://ww2.mathworks.cn/help/matlab/ref/rref.html)
 - 向量的数乘、向量的内积、向量的外积、矩阵的数乘、矩阵的乘法、矩阵的哈达玛积、矩阵的克罗内克积
   - 矩阵的乘法(matrix product、matmul product,一般矩阵乘积,表示为m x p矩阵A与p x n矩阵B乘积结果 m x n )
   - 哈达玛积（Hadamard product，对形状相同的矩阵进行运算，表示为 A ⊙ B ）
@@ -72,7 +74,7 @@
 - 矮胖型矩阵肯定是dependence
 - rank=矩阵线性无关最多列数；nullity=总列数-rank
 ![](rank.png)
-- [rref(reduced row echelon form,简化的行阶梯形矩阵)](https://ww2.mathworks.cn/help/matlab/ref/rref.html)
+
 ![](solution.png)
 - Column Correspondence Theorem,矩阵和RREF结构一致性
 - The three elementary row operations are: 
@@ -107,7 +109,6 @@
    + 任意两个basis在这个子空间里所包含的向量数是一样的，basis的向量个数=dim V(nonzero subspace), dim V(zero subspace)=0
 - rank A = rank A<sup>T</sup>
 - Dim(Null A) = number of free variables = Nullity A = n - Rank A
-- [伴随矩阵](https://baike.baidu.com/item/%E4%BC%B4%E9%9A%8F%E7%9F%A9%E9%98%B5/10034983)
 - det(A)!=0 <=> A可逆
 ![](det.png)
 ![](detp3.png)
