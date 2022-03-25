@@ -61,6 +61,7 @@
   + A<sup>-1</sup>=(1/|A|)(A<sup>*</sup>)<sup>T</sup>
   + |AB|=|A||B|
   + |A<sup>T</sup>|=|A|
+  + Rank A=Rank A<sup>T</sup>
 
 - 方阵、单位阵 I、零阵 O、逆阵 A<sup>-1</sup>、转置阵A<sup>T</sup>、[三角阵 T](https://zh.wikipedia.org/wiki/%E4%B8%89%E8%A7%92%E7%9F%A9%E9%98%B5)、[对角阵 D](https://zh.wikipedia.org/wiki/%E5%B0%8D%E8%A7%92%E7%9F%A9%E9%99%A3)、[对称阵 S](https://math.fandom.com/zh/wiki/%E5%AF%B9%E7%A7%B0%E7%9F%A9%E9%98%B5?variant=zh)、[正交阵](https://zh.wikipedia.org/wiki/%E6%AD%A3%E4%BA%A4%E7%9F%A9%E9%98%B5)、[初等矩阵 E](https://baike.baidu.com/item/%E5%88%9D%E7%AD%89%E7%9F%A9%E9%98%B5/5538659)、- [伴随矩阵 A<sup>*</sup>](https://baike.baidu.com/item/%E4%BC%B4%E9%9A%8F%E7%9F%A9%E9%98%B5/10034983)、[简化的行阶梯形矩阵 R(reduced row echelon form=RREF)](https://ww2.mathworks.cn/help/matlab/ref/rref.html)
 - 向量的数乘、向量的内积、向量的外积、矩阵的数乘、矩阵的乘法、矩阵的哈达玛积、矩阵的克罗内克积
