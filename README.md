@@ -84,6 +84,7 @@
 - basic variables、free variables、full rank、rank deficient、pivot column、nullity
 - 通过逆矩阵解方程组x=A<sup>-1</sup>b
 - 求逆矩阵[A I] => [R B], B=A<sup>-1</sup>
+- 如果A有可逆，R则是I，det(R)=1，det(A)!=0；如果A不可逆，R则有零行，det(R)=0，det(A)=0
 ![](invertible.png)
 - subspace是一个向量集合
   + 零向量属于这个向量集合
