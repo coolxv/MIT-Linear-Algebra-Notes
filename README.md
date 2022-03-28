@@ -83,8 +83,10 @@
   - (Scalar Multiplication) Multiply any row by a constant. 
   - (Row Sum) Add a multiple of one row to another row.
 - Gauss-Jordan 消去法(interchange、scaling(non zero)、row addition)
+- 左边是Row Echelon Form的定义，首先，非0行要在全0行上面，再者，leading entires(每行第一个非0值)是echelon form，从左到右阶梯排列
+- 右边是reduced Row Echelon Form，加上一个条件，所有包含leading entires的列都是standard vectors
 - 通过RREF求rank，求independence、求span
-- basic variables、free variables、full rank、rank deficient、pivot column、nullity
+- basic or pivot variables、free variables、full rank、rank deficient、pivot(主元) column、pivot row、nullity
 - 通过逆矩阵解方程组x=A<sup>-1</sup>b
 - 求逆矩阵[A I] => [R B], B=A<sup>-1</sup>
 - 如果A有可逆，R则是I，det(R)=1，det(A)!=0；如果A不可逆，R则有零行，det(R)=0，det(A)=0
