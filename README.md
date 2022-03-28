@@ -7,7 +7,7 @@
 - [mit-18.06-linalg-notes,python](https://github.com/apachecn/mit-18.06-linalg-notes)
 - [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
 - [Linear_Algebra_With_Python](https://github.com/MacroAnalyst/Linear_Algebra_With_Python)
-- [MIT-18.06-线性代数-完整笔记 markdown版](https://github.com/guokaide/linear-algebra)
+- [MIT-18.06-线性代数-完整笔记 markdown版](https://github.com/guokaide/linear-algebra)[ | 在线版](https://linalg.apachecn.org/#/)
 - [线性代数 python](https://github.com/meichaofan/linear-algebra)
 - [《线性代数及其应用》笔记](https://github.com/huangtinglin/Linear-Algebra-and-Its-Applications-notes)
 - [线性代数 中英文对照表](http://www.gaoshufudao.com/LinearAlgebra_Word.aspx)
@@ -122,7 +122,8 @@
   - 特征向量对应一个特征值
   - eigenspace=eigenvecors+zerospace=Null(A-λI)
   - 判断特征值是不是矩阵的
-  - 求矩阵的所有特征值：det(A-tI)=0
+  - 求矩阵的所有特征值：det(A-tI)=0(特征多项式)
+  - 特征值小于n(R<sup>n</sup>)
 # 三个流行的开源数值线性代数库是：
 - 线性代数包，或 LAPACK。
 - 基本线性代数子程序，或 BLAS（线性代数库的标准）。
