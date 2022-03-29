@@ -16,6 +16,8 @@
 - linear system: persevering multiplication + persevering addition
 - 微积分运算都属于线性系统，电路学、微分方程、信号与系统也是线性系统
 - 向量和向量集合（符合某些约束条件），R<sup>n</sup>表示有n个元素的向量的集合
+- 线性相关、线性无关、基、维数属于向量组的概念，描述空间的
+- 秩是矩阵的概念
 - 符合8特征的东西叫做向量
   + u+v=v+u
   + (u+v)+w=u+(v+w)
